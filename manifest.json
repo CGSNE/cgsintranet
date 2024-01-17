@@ -1,0 +1,39 @@
+{
+  "background_color": "#000000",
+  "description": "CGS Intranet, All Your Needs, In One Place",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CGS Intranet",
+  "orientation": "any",
+  "scope": "https://cgsne.github.io/cgsintranet/",
+  "short_name": "CGS Intranet",
+  "start_url": "https://cgsne.github.io/cgsintranet/",
+  "theme_color": "#000000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon.114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "icon.57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "icon.72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/ms-icon-144x144.png"
+    }
+  ],
+  "shortcuts": []
+}
